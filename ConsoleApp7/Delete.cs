@@ -8,7 +8,7 @@ using System.Linq;
 
 namespace Teodorov_labs
 {
-    public class FileDelete
+    public class ZFileDelete
     {
         IRestResponse response;
 
